@@ -9,10 +9,10 @@ http://bit.ly/2EEjkgx
 3. Short<br>
 http://bit.ly/2C6l4yQ
 
-4. <br>
+4. Link<br>
 url:     http://164.68.100.119:8082<br>
 username:demo<br>
-password:Demo123!<br>
+password:Demo123!
 			  	
 5. Description:<br>
 Web application that allows users to create objects which can be positioned on geographic locations, and share it with other selected users.<br>
